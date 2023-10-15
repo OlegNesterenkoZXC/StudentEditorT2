@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudentEdit</string>
+    <string name="btn_next">Кнопка вперёд</string>
+    <string name="btn_prev">Кнопка назад</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_edit">Изменить</string>
+    <string name="btn_remove">Удалить</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_surname_hint">Фамилия</string>
+    <string name="btn_name_hint">Имя</string>
+    <string name="btn_patronymic_hint">Отчество</string>
+    <string name="btn_group_hint">Группа</string>
+    <string name="btn_course_hint">Курс</string>
+</resources>
